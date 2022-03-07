@@ -1,1 +1,1 @@
-decodes acrostics that use the first letter of each line
+ lists all the files with a .gif extension in the current directory and all its sub-directories
