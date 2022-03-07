@@ -1,1 +1,1 @@
-displays all users and their home directories, sorted by users
+ prints “Hello, World”, followed by a new line to the standard output
