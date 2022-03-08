@@ -1,1 +1,1 @@
-prints the result of POWER divided by DIVIDE, followed by a new line
+ converts a number from base 2 to base 10
